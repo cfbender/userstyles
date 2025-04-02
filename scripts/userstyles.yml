@@ -68,6 +68,7 @@ collaborators:
   - &shnjd shnjd
   - &zenoix zenoix
   - &NekoDrone NekoDrone
+  - &cfbender cfbender
 
 userstyles:
   advent-of-code:
@@ -474,6 +475,12 @@ userstyles:
     categories: [translation_tool]
     color: green
     current-maintainers: [*Lichthagel]
+  kagi:
+    name: Kagi
+    categories: [search_engine, artificial_intelligence]
+    color: yellow
+    link: https://kagi.com
+    current-maintainers: [*cfbender]
   keybr.com:
     name: keybr.com
     link: https://keybr.com
